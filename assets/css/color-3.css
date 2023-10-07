@@ -1,0 +1,17 @@
+:root {
+    --nilos-base: #FFC13E;
+    --nilos-base-rgb: 255, 193, 62;
+}
+
+body {
+    font-family: var(--nilos-font-three);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--nilos-font-three);
+}

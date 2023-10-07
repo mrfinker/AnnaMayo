@@ -1,0 +1,15 @@
+:root {
+    --nilos-base: #B1976B;
+    --nilos-base-rgb: 177, 151, 107;
+    --nilos-black: #161616;
+    --nilos-black-rgb: 22, 22, 22;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--nilos-font-five);
+}
